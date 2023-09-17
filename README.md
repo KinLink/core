@@ -1,5 +1,5 @@
 # KinLink
-KinLink provides an open-source interface for building completely decentralysed interconnected systems with almost zero overhead.
+KinLink provides an open-source interface for building completely decentralised interconnected systems with almost zero overhead.
 
 ## Why did you make it?
 I could not find an existing library that provided the methods to easily connect devices of all sorts globally without a central server, so I built KinLink!
